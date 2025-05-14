@@ -13,3 +13,6 @@ go install basic/hello-world.go
 # How to do unit-testing in go?
 
 
+# How to initialise a go mod
+
+
